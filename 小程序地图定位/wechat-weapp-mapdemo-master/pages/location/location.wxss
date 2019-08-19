@@ -1,6 +1,0 @@
-#map {
-  padding: 40rpx;
-}
-.text{
-  background-color: #eee;
-}
